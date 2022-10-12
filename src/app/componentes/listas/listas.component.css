@@ -1,0 +1,15 @@
+#btnNovaLista{
+  width: 40px;
+  height: 40px;
+  padding: 0.6em;
+  position: fixed;
+  bottom: 1em;
+  right: 1em;
+  background-color: green;
+  color: white;
+  border-radius: 50%;
+}
+
+.lista{
+  border-bottom: 1px solid gray;
+}
